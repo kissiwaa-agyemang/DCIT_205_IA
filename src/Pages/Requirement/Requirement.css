@@ -1,0 +1,15 @@
+body{
+    margin-bottom: 50px;
+    margin: 25px;
+    margin-left: auto;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(21, 21, 54);
+    justify-content: center;
+}
+p{
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}

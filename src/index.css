@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+:root {
+  --primary-color: rgb(177, 141, 75);
+}
+.paddings {
+  padding: 2rem;
+}
+
+.slick-slide {
+  margin: 0 10px;
+}
+
+@media (min-width: 640px) {
+  .paddings {
+    padding: 4rem;
+  }
+}
+
+@media (min-width: 1280px), (min-width: 768px) {
+  .paddings {
+    padding: 2rem;
+  }
+}
